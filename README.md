@@ -21,7 +21,7 @@
 
 - **DevOps & Cloud:** Kubernetes, Jenkins, Gitea, CI/CD Pipelines, Harbor, Docker, Helm, Terraform, Ansible, Prometheus, Grafana, ELK stack
 - **Architecture:** Microservices, Distributed Systems, High Availability, Scalability, Security Best Practices
-- **Programming:** PHP, JavaScript, Python, Bash, SQL, REST, SOAP
+- **Programming:** PHP, JavaScript, Python, Bash, Go, SQL, REST, SOAP, etc
 - **AI Integrations:** MCP, A2A, Chatbots, ML APIs, Automation, Data Pipelines
 - **Other Tools:** Atlassian Suite, Git, SVN, Gitea, Monitoring & Reporting, Payment Systems, API Integrations
 
@@ -60,7 +60,7 @@ _Feb 2009 – Jun 2011 (with Lohika)_
 Marktplaats.nl is the leading online classifieds site in the Netherlands, acquired by eBay in 2004.  
 - 9M+ unique visitors, 8M+ new ads/month, 80M visits/month, 1600M pageviews/month, 800+ web servers.
 - **Tech:** Apache, PHP, Smarty, SimpleTest, SOAP, REST, Ant, Memcache, MySQL (master-slave), SVN, Atlassian tools.
-- **Role:** Backend development, technical SEO, API integrations, payment systems, ETL.
+- **Role:** Backend development, API integrations, payment systems, ETL.
 
 ---
 
