@@ -19,7 +19,7 @@
 
 ### 🛠️ Core Competencies
 
-- **DevOps & Cloud:** Kubernetes, Jenkins, Gitea, CI/CD Pipelines, Harbor, Docker, Helm, Terraform, Ansible, Prometheus, Grafana, ELK stack
+- **DevOps & Cloud:** Kubernetes, Terraform, Flux, Jenkins, Gitea, CI/CD Pipelines, Harbor, Docker, Helm, Ansible, Prometheus, Grafana, ELK stack
 - **Architecture:** Microservices, Distributed Systems, High Availability, Scalability, Security Best Practices
 - **Programming:** PHP, JavaScript, Python, Bash, Go, SQL, REST, SOAP, etc
 - **AI Integrations:** MCP, A2A, Chatbots, ML APIs, Automation, Data Pipelines
