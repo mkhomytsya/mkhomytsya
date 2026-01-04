@@ -79,7 +79,20 @@
   _Master’s Diploma in Informatics and Mathematics, Applied Mathematics and Informatics (1998 – 2003)_
 
 ---
+### 🎯 Beyond Code
 
+**Chess:**
+- First-rank chess player with rating 1600-1700 on chess.com
+- Strategic thinking and pattern recognition skills applied to architecture design
+
+**Physical Fitness:**
+- 20 pull-ups, 40 push-ups — maintaining discipline and consistent training
+- Running 5-7 km weekly for endurance and mental clarity
+- Playing for city amateur football team — teamwork and competitive spirit
+
+*"A healthy body supports a sharp mind. Balance in life translates to balance in code."*
+
+---
 ### � Hackathon Achievement
 
 **GitLessOps Release Agent** — AI-Driven Infrastructure Automation Platform  
