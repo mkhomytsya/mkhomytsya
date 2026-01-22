@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Marko Khomytsia</h1>
-<h3 align="center">Principal Software Engineer / Architect</h3>
+<h3 align="center">Principal Software Engineer | Architect | AI-driven automation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-25%2B%20years-blue" />
